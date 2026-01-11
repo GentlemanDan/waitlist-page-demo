@@ -1,12 +1,12 @@
 const metadata = {
-  title: 'Mevolut | Simple B2C Fintech for your Money',
+  title: 'ИИ-ассистент для юристов | Ранний доступ',
   description:
-    'Manage your money the easy way with Mevolut. Track expenses, send money, and grow your savings – safely and simply. Sign up free today!',
-  domain: 'pageai.pro',
+    'Получите ранний доступ к ИИ-ассистенту для юристов. Анализ документов, поиск по практике и подготовка проектов с полной конфиденциальностью.',
+  domain: 'waitlist-page-demo.vercel.app',
   logoTitle: '',
-  businessName: 'Mevolut',
-  siteUrl: 'https://pageai.pro',
-  siteRepo: '',
+  businessName: 'Legal AI',
+  siteUrl: 'https://waitlist-page-demo.vercel.app',
+  siteRepo: 'https://github.com/GentlemanDan/waitlist-page-demo',
   socialBanner: '/api/og',
   supportEmail: '',
   email: '',
@@ -19,10 +19,10 @@ const metadata = {
   facebook: '',
   threads: '',
   mastodon: '',
-  author: 'Mevolut',
-  language: 'en-us',
-  theme: 'light',
-  locale: 'en-US',
+  author: 'Legal AI',
+  language: 'ru-ru',
+  theme: 'dark',
+  locale: 'ru-RU',
 };
 
 module.exports = { metadata };
